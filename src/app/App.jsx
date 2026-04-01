@@ -1,6 +1,6 @@
 
 import './App.css'
-import NameForm from './components/NameForm'
+import NameForm from './../components/NameForm'
 
 function App() {
   return (
